@@ -88,7 +88,7 @@ virtualenv-clone==0.2.6
 virtualenvwrapper==4.7.2
 wcwidth==0.1.7
 wechatpy==1.5.5
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 WTForms==2.1
 xlwt==1.3.0
 xmljson==0.1.9
