@@ -44,7 +44,7 @@ jpush==3.3.0
 kombu==4.0.2
 lxml==4.1.1
 macholib==1.9
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 mongoengine==0.14.3
 olefile==0.44
